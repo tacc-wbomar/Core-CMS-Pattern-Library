@@ -18,7 +18,7 @@ After cloning this repository for your plugin:
 
 ## Quick Start
 
-0. `yarn install`\*
+0. `yarn install`
 1. `git submodule init`\*
 2. `git submodule update`\*
 3. `yarn start`
