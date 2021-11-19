@@ -1,5 +1,5 @@
 ## Texas Advanced Computing Center
-# UI Patterns (powered by ___)
+# CMS UI Patterns (powered by ___)
 
 This repo builds UI patterns from Core-CMS stylesheets.
 
